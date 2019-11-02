@@ -1,5 +1,5 @@
 
 <Version: 1.03>
 /data/Map036.json https://raw.githubusercontent.com/TheNickezz/RPGUpdate/master/Map036.json
-/js/plugins/YEP_X_ItemCategories.js 
+/js/plugins/YEP_X_ItemCategories.js https://raw.githubusercontent.com/TheNickezz/RPGUpdate/master/YEP_X_ItemCategories.js
 <End of Version>
